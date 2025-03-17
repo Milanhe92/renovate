@@ -1,4 +1,4 @@
-![Mend Renovate CLI banner](https://docs.renovatebot.com/assets/images/mend-renovate-cli-banner.jpg)
+Milanhe92.live ![Mend Renovate CLI banner](https://docs.renovatebot.com/assets/images/mend-renovate-cli-banner.jpg)
 
 [![License: AGPL-3.0-only](https://img.shields.io/badge/license-%20%09AGPL--3.0--only-blue.svg)](https://raw.githubusercontent.com/renovatebot/renovate/main/license)
 [![codecov](https://codecov.io/gh/renovatebot/renovate/branch/main/graph/badge.svg)](https://codecov.io/gh/renovatebot/renovate)
